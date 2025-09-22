@@ -1,10 +1,9 @@
 [application]
 
-
 [web.app]
 
 # HTML title tag content
-title = "green-grass"
+title = "app"
 
 # include `assets` in web platform
 [web.resource]
