@@ -9,3 +9,5 @@ By assessing the likelihood of specific dangers, the tool provides actionable in
 
 ### Framework / Libraries incorporated
 
+Built in Rust using the **Dioxus** Framework allowing for a full stack development 
+using maching Learning elements such as **linfa** and **dfdx** and using binds for connecting to popular python libraries such as **tch-rs** (Torch)
